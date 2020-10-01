@@ -1,0 +1,8 @@
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\bin\Debug\Lab1_Pro.exe.config
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\bin\Debug\Lab1_Pro.exe
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\bin\Debug\Lab1_Pro.pdb
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\obj\Debug\Lab1_Pro.csprojAssemblyReference.cache
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\obj\Debug\Lab1_Pro.csproj.CoreCompileInputs.cache
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\obj\Debug\Lab1_Pro.exe
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\obj\Debug\Lab1_Pro.pdb
+C:\mohawk\Sem3\DotNet\Lab1_Pro\Lab1_Pro\bin\Debug\employee.txt
