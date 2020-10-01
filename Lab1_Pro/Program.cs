@@ -1,13 +1,7 @@
 ﻿using System;
 using System.IO;
 
-/// <summary>
-/// Statement of authership: I, Abhishek Chauhan, 000815438 certify that this material is my original work.
-/// No other person's work has been used without due acknowledgement.
-/// 
-/// Submit Date: 27/09/2020
-/// 
-/// </summary>
+//Author: Abhishek Chauhan
 
 namespace Lab1_Pro
 {
